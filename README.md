@@ -1,3 +1,10 @@
+## System Requirements
+
+- PHP >= 7.4
+- Composer
+- MySQL
+- Web server (Apache, Nginx, etc.)
+
 B1: Cài đặt các gói phụ thuộc PHP bằng Composer:
 composer install
 
